@@ -1,0 +1,42 @@
+body {
+  background-color: #333; /* Cor de fundo escura */
+  color: #fff; /* Cor do texto clara para contraste */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body a {
+  color: rgb(223, 15, 223);
+}
+body a:hover {
+  color: rgb(251, 118, 251);
+}
+
+header {
+  background-color: #222; /* Cor de fundo do cabeçalho */
+  padding: 20px;
+  text-align: left;
+}
+
+header h1 {
+  margin: 0;
+}
+
+section {
+  padding: 40px;
+}
+
+h2 {
+  color: #f90; /* Cor do título das seções */
+}
+
+.projeto {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #222; /* Cor de fundo do rodapé */
+  padding: 10px;
+  text-align: center;
+}
