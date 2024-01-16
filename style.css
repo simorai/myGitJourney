@@ -7,7 +7,7 @@ body {
 }
 
 body a {
-  color: rgb(223, 15, 223);
+  color: rgb(233, 146, 233);
 }
 body a:hover {
   color: rgb(251, 118, 251);
@@ -31,12 +31,13 @@ h2 {
   color: #f90; /* Cor do título das seções */
 }
 
-.projeto {
+.project {
   margin-bottom: 20px;
+  color: papayawhip;
 }
 
 footer {
   background-color: #222; /* Cor de fundo do rodapé */
-  padding: 10px;
+  padding: 50px;
   text-align: center;
 }
