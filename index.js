@@ -11,5 +11,9 @@ function atualizarRelogio() {
 // Atualize o relógio a cada segundo
 setInterval(atualizarRelogio, 1000);
 
-// Chame a função inicialmente para evitar um atraso de 1 segundo na exibição
+// Chamar a função inicialmente para evitar um atraso de 1 segundo na exibição
 atualizarRelogio();
+
+$("button").on("click", function () {
+  $("h1").fadeToggle();
+});
